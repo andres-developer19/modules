@@ -1,0 +1,7 @@
+.text-gray-400 {
+    color: #CBD5E0; /* Este es el color correspondiente a text-gray-400 en Tailwind */
+  }
+
+  .hover-color-gris:hover {
+    color: #718096; /* Este es el color correspondiente a hover:text-gray-500 en Tailwind */
+  }
